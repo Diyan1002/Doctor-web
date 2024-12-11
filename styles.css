@@ -1,8 +1,9 @@
-body {
+html,body {
     margin: 0;
     font-family: Arial, sans-serif;
     position: relative;
     overflow-x: hidden;
+    width: 100%;
 }
 
 .navbar {
